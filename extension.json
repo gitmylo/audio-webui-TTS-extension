@@ -1,0 +1,6 @@
+{
+  "name": "Coqui TTS extension",
+  "description": "This extension adds Coqui TTS models support to audio-webui.",
+  "author": "GitMylo",
+  "tags": ["TTS", "Coqui"]
+}
